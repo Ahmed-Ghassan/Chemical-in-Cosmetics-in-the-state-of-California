@@ -22,6 +22,6 @@ Between 2009 and 2020, 86.3% of monitored cosmetic products in California contai
 * we may still have unknown harmeful products in the market 
 (All products containing carcinogens or developmental or reproductive toxicants may not be included due to companies failing to
 report.)
-# References
+# References:
 https://www.kaggle.com/datasets/willianoliveiragibin/chemicals-in-cosmetics
 
